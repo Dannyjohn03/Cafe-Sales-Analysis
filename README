@@ -29,9 +29,9 @@ The objective of this project was to explore, clean, transform, and visualize a 
 
 ## 3. Project Structure
 
-- Dirty Data #Link to the dirty dataset used for the project
-- Clean Data #.xlsx file containing the cleaned data
-- Visuals #Dashboard screenshot
+- [Dirty Data] (https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training?utm_source=chatgpt.com) #Link to the dirty dataset used for the project
+- [Clean Data](Data) #.xlsx file containing the cleaned data
+- [Visuals](Visuals) #Dashboard screenshot
 
 
 
